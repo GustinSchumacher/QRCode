@@ -33,5 +33,5 @@ HTML/CSS
 
 ## Author
 
-- Website - [Add your name here](https://gustinschumacher.github.io/)
-- Twitter - [@yourusername](https://www.twitter.com/gustinCodes)
+- Website - [Portfolio](https://gustinschumacher.github.io/)
+- Twitter - [@gustinCodes](https://www.twitter.com/gustinCodes)
